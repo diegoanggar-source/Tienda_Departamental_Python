@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sucursales>
+   <Sucursal nombre="Tonala">
+      <categoria nombre="Electronica">
+         <producto nombre="Laptop" precio="2500.0" existencia="100" />
+         <producto nombre="Tableta" precio="1200.0" existencia="10" />
+      </categoria>
+   </Sucursal>
+   <Sucursal nombre="Centro">
+      <categoria nombre="Ropa">
+         <producto nombre="Camiseta" precio="120.0" existencia="1000" />
+      </categoria>
+   </Sucursal>
+</Sucursales>
